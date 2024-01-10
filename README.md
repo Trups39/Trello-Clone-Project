@@ -16,14 +16,14 @@ Incorporated the Model-View-Controller (MVC) design pattern to optimize Trello w
 - **Hibernate**: Object-relational mapping tool
 - **Maven**: Dependency management and build tool
 - **MySQL**: Datbase
-- ......................................................................................................................................................................................
+
 
 ## Features
 
 - Create and manage tasks
 - Organize tasks in boards and lists
 - View task history
-- ....................................................................................................................................................................................
+
 
 ## Usage
 
