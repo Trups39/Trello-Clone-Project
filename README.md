@@ -1,10 +1,29 @@
 # Trello Clone Project
 
-This project is a simplified version of Trello, allowing users to manage tasks in boards and lists.
-
 ## Introduction
 
-The Trello clone project aims to replicate basic functionalities of the Trello application, enabling users to create, organize, and manage tasks within boards and lists. It utilizes Spring Boot and MySQL for backend services and provides RESTful APIs for interacting with the application.
+Incorporated the Model-View-Controller (MVC) design pattern to optimize Trello workspace operations for employees.
+- Developed controllers and services to handle requests using Spring Boot, Java, and MySQL.
+- Created REST APIs to facilitate efficient client-server communication and tested them using the Postman automation tool.
+- Ensured Quality Assurance through Unit Testing using Mockito and JUnit.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Technologies Used
+
+- **Spring Boot**: For backend API development
+- **MySQL**: Database for storing task information
+- **Hibernate**: Object-relational mapping tool
+- **Maven**: Dependency management and build tool
+- **MySQL**: Datbase
+- ......................................................................................................................................................................................
+
+## Features
+
+- Create and manage tasks
+- Organize tasks in boards and lists
+- View task history
+- ....................................................................................................................................................................................
 
 ## Usage
 
@@ -15,21 +34,6 @@ Once the application is running, you can access the endpoints using tools like P
 - `DELETE /demo/deletetask/{id}`: Delete a task
 - `GET /demo/showalltask`: Retrieve all tasks
 - `GET /demo/showtaskhistory/{id}`: Retrieve task history by ID
-- ....................................................................................................................................................................................
 
-## Features
 
-- Create and manage tasks
-- Organize tasks in boards and lists
-- View task history
-- ....................................................................................................................................................................................
-
-## Technologies Used
-
-- **Spring Boot**: For backend API development
-- **MySQL**: Database for storing task information
-- **Hibernate**: Object-relational mapping tool
-- **Maven**: Dependency management and build tool
-- **MySQL**: Datbase
-- ......................................................................................................................................................................................
 
