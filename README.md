@@ -30,5 +30,6 @@ Once the application is running, you can access the endpoints using tools like P
 - **MySQL**: Database for storing task information
 - **Hibernate**: Object-relational mapping tool
 - **Maven**: Dependency management and build tool
+- **MySQL**: Datbase
 - ......................................................................................................................................................................................
 
