@@ -26,9 +26,9 @@ Once the application is running, you can access the endpoints using tools like P
 
 ## Technologies Used
 
-- Spring Boot
-- MySQL
-- Hibernate
-- Maven
+- **Spring Boot**: For backend API development
+- **MySQL**: Database for storing task information
+- **Hibernate**: Object-relational mapping tool
+- **Maven**: Dependency management and build tool
 - ...
 
