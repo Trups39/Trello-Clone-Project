@@ -15,14 +15,14 @@ Once the application is running, you can access the endpoints using tools like P
 - `DELETE /demo/deletetask/{id}`: Delete a task
 - `GET /demo/showalltask`: Retrieve all tasks
 - `GET /demo/showtaskhistory/{id}`: Retrieve task history by ID
-- ...
+- ....................................................................................................................................................................................
 
 ## Features
 
 - Create and manage tasks
 - Organize tasks in boards and lists
 - View task history
-- ...
+- ....................................................................................................................................................................................
 
 ## Technologies Used
 
@@ -30,5 +30,5 @@ Once the application is running, you can access the endpoints using tools like P
 - **MySQL**: Database for storing task information
 - **Hibernate**: Object-relational mapping tool
 - **Maven**: Dependency management and build tool
-- ...
+- ......................................................................................................................................................................................
 
